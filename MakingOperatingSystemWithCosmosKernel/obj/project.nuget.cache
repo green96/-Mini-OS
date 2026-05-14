@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "gCmj/voQ9kPQaMy7name93ypDqOAcso6EExl0JS7dKLYcUQK2hpTvKdjNJhoEYOdoAoQkdcTbuFfj9q7CflxiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\david\\source\\repos\\MakingOperatingSystemWithCosmosKernel\\MakingOperatingSystemWithCosmosKernel\\MakingOperatingSystemWithCosmosKernel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david\\.nuget\\packages\\cosmos.build\\0.1.0-localbuild20221121055958\\cosmos.build.0.1.0-localbuild20221121055958.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\cosmos.common\\0.1.0-localbuild20221121060004\\cosmos.common.0.1.0-localbuild20221121060004.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\cosmos.core\\0.1.0-localbuild20221121060004\\cosmos.core.0.1.0-localbuild20221121060004.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\cosmos.debug.kernel\\0.1.0-localbuild20221121060004\\cosmos.debug.kernel.0.1.0-localbuild20221121060004.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\cosmos.hal2\\0.1.0-localbuild20221121060004\\cosmos.hal2.0.1.0-localbuild20221121060004.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\cosmos.system2\\0.1.0-localbuild20221121060004\\cosmos.system2.0.1.0-localbuild20221121060004.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\il2cpu.api\\0.1.0-localbuild20221121060004\\il2cpu.api.0.1.0-localbuild20221121060004.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
